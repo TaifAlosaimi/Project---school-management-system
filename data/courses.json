@@ -1,0 +1,18 @@
+[
+    {
+        "course_code": "C001",
+        "course_title": "Python Programming",
+        "assigned_teacher": "T001",
+        "enrolled_student_ids": [
+            "S001"
+        ]
+    },
+    {
+        "course_code": "C002",
+        "course_title": "Physics",
+        "assigned_teacher": "T002",
+        "enrolled_student_ids": [
+            "S002"
+        ]
+    }
+]
