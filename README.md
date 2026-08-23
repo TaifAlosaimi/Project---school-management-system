@@ -31,4 +31,24 @@ The system allows users to add students, add courses, enroll students in courses
 ---
 
 ## Project Structure
+School Management System
+│
+├── main.py
+│
+├── models/
+│   ├── student.py
+│   ├── teacher.py
+│   ├── course.py
+│   └── school.py
+│
+├── utils/
+│   ├── file_handler.py
+│   └── validators.py
+│
+├── data/
+│   ├── students.json
+│   ├── teachers.json
+│   └── courses.json
+│
+└── SSM project Diagram.
 
